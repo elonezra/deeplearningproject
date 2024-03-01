@@ -21,11 +21,13 @@ You can install these libraries using pip:
 
 ```bash
 pip install pandas numpy matplotlib seaborn tensorflow sklearn
+```
 ### Running the Code
 To run the code, simply navigate to the directory containing the Python scripts and run them using the Python command. For example:
 
 ```bash
 python script_name.py
+```
 Replace `script_name.py` with the name of the script you want to run.
 
 ## Project Structure
